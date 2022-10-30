@@ -1,5 +1,5 @@
 # Python
-A repository for practicing Python that is linked to my Jira Education project.
+A repository for practicing Python that is linked to my Jira 'Education' project.
 
 Branches:
 
