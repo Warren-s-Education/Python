@@ -5,6 +5,7 @@
 
 
 venv/ 
+lumen/
 
 # User-specific files
 *.rsuser
