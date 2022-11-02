@@ -1,7 +1,9 @@
 # Python
 A repository for practicing Python that is linked to my Jira 'Education' project.
+It is not intended for branches to be merged with the main branch. Each branch relates 
+to some increment of learning.
 
-Branches:
+For example, these branches relate to specific increments of learning:
 
 ed-28-properties
   Real Python article
