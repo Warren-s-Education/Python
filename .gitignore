@@ -13,6 +13,11 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+.*
+/*
+Best Practices PI
+queues
+
 # Mono auto generated files
 mono_crash.*
 
