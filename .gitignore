@@ -13,8 +13,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-.*
-/*
+venv
+lumen
+New folder
+numpy_practice
 Best Practices PI
 queues
 
