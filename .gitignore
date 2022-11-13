@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# User virtual environments
+Best Practices PI
+lumen
+New Folder
+numpy_practice
+queues
+venv
+
 # User-specific files
 *.rsuser
 *.suo
