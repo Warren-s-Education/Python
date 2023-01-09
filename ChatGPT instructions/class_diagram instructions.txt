@@ -1,0 +1,45 @@
+I want you to use the mermaid syntax when I request a class diagram.
+
+When using Mermaid, use the following syntax for class definitions:
+```mermaid
+class A {
+      attribute1 type information
+      attribute2 type information
+      method1() type information
+      method2() type information
+}
+```
+
+Do not use this syntax:
+``` mermaid
+class A: attribute1
+class A: attribute2
+class A: method1(parameter information) return type
+class A: method2(parameter information) return type
+```
+
+If you understand these instructions, diagram class A with my preferred syntax. Let's call this syntax Schematic Syntax.
+
+I also want you to create diagrams that have more explanation. Let's call this Explanatory Syntax.
+
+attribute1 stores information about X.
+method1() requests information from the server.
+
+You do not have any explanation for attribute2 and method2. You can indicate that with 
+
+attribute2 not known
+method2 not known
+
+Putting it all together, Explanatory Syntax for Class A would look like
+
+```mermaid
+class A {
+      attribute1 "explanation"
+      attribute2 "explanation" 
+      method1() "explanation"
+      method2() "explanation"
+}
+```
+
+I want you to create two class diagrams each time I request a class diagram. One class diagram that uses Schematic Syntax and another class diagram that uses Explanatory Syntax. If you understand, please generate class diagrams for class A and say nothing.
+
