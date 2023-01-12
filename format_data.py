@@ -1,0 +1,6 @@
+def format_data_for_display(people):
+    ...
+
+
+def format_data_for_excel(people):
+    ...
